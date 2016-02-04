@@ -39,7 +39,7 @@ var gulp = require('gulp'),
 
 var awsRegion = 'us-west-1';
 var awsAccessKey = 'AKIAJEGF6GH26BCU7VYA';
-var s3Path = '/libs/altspace.js';
+var s3Path = '/test-ar-libs/altspace.js';
 var targetRemote = 'origin';
 
 var version;
