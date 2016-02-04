@@ -5,7 +5,7 @@
 
 # AltspaceVR SDK
 
-**Latest Version: v0.4.0 -- [See Changes](https://github.com/AltspaceVR/AltspaceSDK/releases/tag/v0.4.0)**  
+**Latest Version: v0.5.0 -- [See Changes](https://github.com/AltspaceVR/AltspaceSDK/releases/tag/v0.5.0)**  
 
 The AltspaceVR SDK can be used together with [three.js] to create holographic, multi-user web apps for virtual reality. When running inside [AltspaceVR](http://altvr.com/) they can be experienced with consumer VR hardware including the Oculus Rift DK2.  
 
@@ -35,7 +35,7 @@ To always use the latest version, simply add this script tag to your project:
 
 or to include a specific version add:
 
-`<script src="http://sdk.altvr.com/libs/altspace.js/0.4.0/altspace.min.js"></script>`
+`<script src="http://sdk.altvr.com/libs/altspace.js/0.5.0/altspace.min.js"></script>`
 
 ## API Overview  
 
